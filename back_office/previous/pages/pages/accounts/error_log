@@ -1,0 +1,143 @@
+[15-Jan-2018 06:58:29 UTC] PHP Warning:  include_once(header3.php): failed to open stream: No such file or directory in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/dashboard.php on line 3
+[15-Jan-2018 06:58:29 UTC] PHP Warning:  include_once(): Failed opening 'header3.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/dashboard.php on line 3
+[15-Jan-2018 06:58:29 UTC] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/dashboard.php on line 10
+[15-Jan-2018 06:58:29 UTC] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/dashboard.php on line 10
+[15-Jan-2018 09:38:57 UTC] PHP Notice:  Undefined index: user in /home/tanahmzin/public_html/maxomus/pages/pages/header3.php on line 116
+[15-Jan-2018 09:38:57 UTC] PHP Notice:  Undefined index: user in /home/tanahmzin/public_html/maxomus/pages/pages/header3.php on line 127
+[15-Jan-2018 09:38:58 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 09:39:19 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 09:48:16 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 09:48:17 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 09:48:18 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 09:51:32 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 09:51:59 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 09:52:25 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 09:54:28 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 09:54:51 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 09:56:47 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 09:58:04 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 10:01:08 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 10:02:21 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 10:05:43 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 10:08:40 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 10:10:53 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 10:11:23 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 10:12:09 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 10:14:17 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 10:14:40 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 12:04:55 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 12:05:08 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 12:14:17 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 12:14:34 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 12:29:23 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 12:33:23 UTC] PHP Warning:  include_once(header3.php): failed to open stream: No such file or directory in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/dashboard.php on line 3
+[15-Jan-2018 12:33:23 UTC] PHP Warning:  include_once(): Failed opening 'header3.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/dashboard.php on line 3
+[15-Jan-2018 12:33:23 UTC] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/dashboard.php on line 10
+[15-Jan-2018 12:33:23 UTC] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/dashboard.php on line 10
+[15-Jan-2018 12:45:26 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 12:45:33 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[15-Jan-2018 14:05:12 UTC] PHP Notice:  Undefined index: user in /home/tanahmzin/public_html/maxomus/pages/pages/header3.php on line 113
+[15-Jan-2018 14:05:12 UTC] PHP Notice:  Undefined index: user in /home/tanahmzin/public_html/maxomus/pages/pages/header3.php on line 124
+[16-Jan-2018 00:21:59 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[16-Jan-2018 03:51:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tanahmzin/public_html/maxomus/pages/pages/header3.php:4) in /home/tanahmzin/public_html/maxomus/pages/pages/header3.php on line 135
+[16-Jan-2018 03:52:19 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tanahmzin/public_html/maxomus/pages/pages/header3.php:4) in /home/tanahmzin/public_html/maxomus/pages/pages/header3.php on line 135
+[16-Jan-2018 03:52:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tanahmzin/public_html/maxomus/pages/pages/header3.php:4) in /home/tanahmzin/public_html/maxomus/pages/pages/header3.php on line 135
+[16-Jan-2018 03:56:51 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[16-Jan-2018 03:57:00 UTC] PHP Fatal error:  Uncaught Error: Class 'FusionCharts' not found in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/pages/pages/accounts/sales.php on line 102
+[16-Jan-2018 06:53:08 UTC] PHP Notice:  Undefined index: user in /home/tanahmzin/public_html/maxomus/pages/pages/header3.php on line 36
+[16-Jan-2018 06:53:08 UTC] PHP Notice:  Undefined index: user in /home/tanahmzin/public_html/maxomus/pages/pages/header3.php on line 47
+[16-Jan-2018 08:52:58 UTC] PHP Notice:  Undefined index: user in /home/tanahmzin/public_html/maxomus/pages/pages/header3.php on line 36
+[16-Jan-2018 08:52:58 UTC] PHP Notice:  Undefined index: user in /home/tanahmzin/public_html/maxomus/pages/pages/header3.php on line 47

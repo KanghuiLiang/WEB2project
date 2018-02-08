@@ -1,0 +1,74 @@
+[15-Dec-2017 14:04:10 UTC] PHP Notice:  Undefined index: fileToUpload in /home/tanahmzin/public_html/maxomus/user/userRegister.php on line 27
+[15-Dec-2017 14:04:10 UTC] PHP Notice:  Undefined index: fileToUpload in /home/tanahmzin/public_html/maxomus/user/userRegister.php on line 43
+[15-Dec-2017 14:04:16 UTC] PHP Notice:  Undefined index: fileToUpload in /home/tanahmzin/public_html/maxomus/user/userRegister.php on line 27
+[15-Dec-2017 14:04:16 UTC] PHP Notice:  Undefined index: fileToUpload in /home/tanahmzin/public_html/maxomus/user/userRegister.php on line 43
+[15-Dec-2017 14:04:23 UTC] PHP Notice:  Undefined index: fileToUpload in /home/tanahmzin/public_html/maxomus/user/userRegister.php on line 27
+[15-Dec-2017 14:04:23 UTC] PHP Notice:  Undefined index: fileToUpload in /home/tanahmzin/public_html/maxomus/user/userRegister.php on line 43
+[15-Dec-2017 17:57:21 UTC] PHP Warning:  require_once(dbcontroller.php): failed to open stream: No such file or directory in /home/tanahmzin/public_html/maxomus/user/check_availability.php on line 2
+[15-Dec-2017 17:57:21 UTC] PHP Fatal error:  require_once(): Failed opening required 'dbcontroller.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/tanahmzin/public_html/maxomus/user/check_availability.php on line 2
+[15-Dec-2017 17:59:32 UTC] PHP Warning:  require_once(dbcontroller.php): failed to open stream: No such file or directory in /home/tanahmzin/public_html/maxomus/user/check_availability.php on line 2
+[15-Dec-2017 17:59:32 UTC] PHP Fatal error:  require_once(): Failed opening required 'dbcontroller.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/tanahmzin/public_html/maxomus/user/check_availability.php on line 2
+[15-Dec-2017 18:05:29 UTC] PHP Warning:  require_once(dbcontroller.php): failed to open stream: No such file or directory in /home/tanahmzin/public_html/maxomus/user/check_availability.php on line 2
+[15-Dec-2017 18:05:29 UTC] PHP Fatal error:  require_once(): Failed opening required 'dbcontroller.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/tanahmzin/public_html/maxomus/user/check_availability.php on line 2
+[15-Dec-2017 18:07:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tanahmzin/public_html/maxomus/db/dbcontroller.php:16
+Stack trace:
+#0 /home/tanahmzin/public_html/maxomus/db/dbcontroller.php(9): DBController->connectDB()
+#1 /home/tanahmzin/public_html/maxomus/user/check_availability.php(3): DBController->__construct()
+#2 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/db/dbcontroller.php on line 16
+[15-Dec-2017 18:09:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tanahmzin/public_html/maxomus/db/dbcontroller.php:16
+Stack trace:
+#0 /home/tanahmzin/public_html/maxomus/db/dbcontroller.php(9): DBController->connectDB()
+#1 /home/tanahmzin/public_html/maxomus/user/check_availability.php(3): DBController->__construct()
+#2 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/db/dbcontroller.php on line 16
+[15-Dec-2017 18:17:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tanahmzin/public_html/maxomus/db/dbcontroller.php:16
+Stack trace:
+#0 /home/tanahmzin/public_html/maxomus/db/dbcontroller.php(9): DBController->connectDB()
+#1 /home/tanahmzin/public_html/maxomus/user/check_availability.php(3): DBController->__construct()
+#2 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/db/dbcontroller.php on line 16
+[15-Dec-2017 18:20:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tanahmzin/public_html/maxomus/db/dbcontroller.php:16
+Stack trace:
+#0 /home/tanahmzin/public_html/maxomus/db/dbcontroller.php(9): DBController->connectDB()
+#1 /home/tanahmzin/public_html/maxomus/user/check_availability.php(3): DBController->__construct()
+#2 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/db/dbcontroller.php on line 16
+[15-Dec-2017 18:22:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tanahmzin/public_html/maxomus/db/dbcontroller.php:16
+Stack trace:
+#0 /home/tanahmzin/public_html/maxomus/db/dbcontroller.php(9): DBController->connectDB()
+#1 /home/tanahmzin/public_html/maxomus/user/check_availability.php(3): DBController->__construct()
+#2 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/db/dbcontroller.php on line 16
+[15-Dec-2017 18:26:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tanahmzin/public_html/maxomus/db/dbcontroller.php:16
+Stack trace:
+#0 /home/tanahmzin/public_html/maxomus/db/dbcontroller.php(9): DBController->connectDB()
+#1 /home/tanahmzin/public_html/maxomus/user/check_availability.php(3): DBController->__construct()
+#2 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/db/dbcontroller.php on line 16
+[15-Dec-2017 18:29:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tanahmzin/public_html/maxomus/db/dbcontroller.php:16
+Stack trace:
+#0 /home/tanahmzin/public_html/maxomus/db/dbcontroller.php(9): DBController->connectDB()
+#1 /home/tanahmzin/public_html/maxomus/user/check_availability.php(3): DBController->__construct()
+#2 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/db/dbcontroller.php on line 16
+[15-Dec-2017 18:33:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tanahmzin/public_html/maxomus/db/dbcontroller.php:16
+Stack trace:
+#0 /home/tanahmzin/public_html/maxomus/db/dbcontroller.php(9): DBController->connectDB()
+#1 /home/tanahmzin/public_html/maxomus/user/check_availability.php(3): DBController->__construct()
+#2 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/db/dbcontroller.php on line 16
+[15-Dec-2017 18:34:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tanahmzin/public_html/maxomus/db/dbcontroller.php:16
+Stack trace:
+#0 /home/tanahmzin/public_html/maxomus/db/dbcontroller.php(9): DBController->connectDB()
+#1 /home/tanahmzin/public_html/maxomus/user/check_availability.php(3): DBController->__construct()
+#2 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/db/dbcontroller.php on line 16
+[15-Dec-2017 19:10:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tanahmzin/public_html/maxomus/user/check.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/user/check.php on line 31
+[15-Dec-2017 19:11:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/tanahmzin/public_html/maxomus/user/check.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/tanahmzin/public_html/maxomus/user/check.php on line 31

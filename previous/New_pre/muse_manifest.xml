@@ -1,0 +1,67 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="maxomus.creativeitpro.com" resolutions="1x" timestamp="1515977012908">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3899620637" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u976.php" crc="3893225417" ref="index"/>
+    <file name="form-u1214.php" crc="4263472063" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="pasted image 2997x1734.jpg" crc="3846703255" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u305.png" crc="297532600" ref="index"/>
+    <file name="u305-r.png" crc="465408299" ref="index"/>
+    <file name="u305-m.png" crc="131535244" ref="index"/>
+    <file name="u305-a.png" crc="115698921" ref="index"/>
+    <file name="u309.png" crc="3816712813" ref="index"/>
+    <file name="u309-r.png" crc="405591759" ref="index"/>
+    <file name="u309-m.png" crc="3918448214" ref="index"/>
+    <file name="u309-a.png" crc="169687921" ref="index"/>
+    <file name="road.jpg" crc="3808498567" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 497x295.jpg" crc="190041085" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u301.png" crc="3923260727" ref="index"/>
+    <file name="u301-r.png" crc="67591315" ref="index"/>
+    <file name="u301-m.png" crc="212595266" ref="index"/>
+    <file name="u301-a.png" crc="4271457639" ref="index"/>
+    <file name="pasted image 960x720.jpg" crc="201745375" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 2997x17342.jpg" crc="3846703255" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 2997x17343.jpg" crc="3846703255" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="527180122" seo="true" mt="1515976995821" redirect="true"/>
+</manifest>

@@ -1,0 +1,56 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1515744786687">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4086391893" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
+    <file name="form_check.php" crc="62300408" ref="index"/>
+    <file name="form_process.php" crc="91775217" ref="index"/>
+    <file name="form-u272.php" crc="4277326465" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u123.png" crc="4239887126" ref="index"/>
+    <file name="u123-r.png" crc="138719714" ref="index"/>
+    <file name="u123-m.png" crc="254649762" ref="index"/>
+    <file name="u123-a.png" crc="4230979007" ref="index"/>
+    <file name="u119.png" crc="4065195957" ref="index"/>
+    <file name="u119-r.png" crc="3882393347" ref="index"/>
+    <file name="u119-m.png" crc="3883113500" ref="index"/>
+    <file name="u119-a.png" crc="4065195957" ref="index"/>
+    <file name="u126.png" crc="4125492226" ref="index"/>
+    <file name="u126-r.png" crc="76361346" ref="index"/>
+    <file name="u126-m.png" crc="170229135" ref="index"/>
+    <file name="u126-a.png" crc="197320425" ref="index"/>
+    <file name="road179x119.jpg" crc="11807904" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u197.png" crc="536364464" ref="index"/>
+    <file name="u197-r.png" crc="4208239671" ref="index"/>
+    <file name="u197-m.png" crc="94171943" ref="index"/>
+    <file name="u197-a.png" crc="3839294850" ref="index"/>
+    <file name="u205.png" crc="290482726" ref="index"/>
+    <file name="u205-r.png" crc="452196471" ref="index"/>
+    <file name="u205-m.png" crc="4195971665" ref="index"/>
+    <file name="u205-a.png" crc="3870222245" ref="index"/>
+    <file name="u201.png" crc="380166149" ref="index"/>
+    <file name="u201-r.png" crc="323560251" ref="index"/>
+    <file name="u201-m.png" crc="4174871494" ref="index"/>
+    <file name="u201-a.png" crc="468495797" ref="index"/>
+    <file name="cactus179x119.jpg" crc="276737025" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees179x119.jpg" crc="255047790" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="504924852" seo="true" mt="1515744785975" redirect="true"/>
+</manifest>

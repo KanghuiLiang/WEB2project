@@ -1,0 +1,4 @@
+[28-Jan-2018 13:37:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tanahmzin/public_html/maxomus/back_office/pages/pages/db/addUser_action2.php on line 32
+[28-Jan-2018 13:37:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tanahmzin/public_html/maxomus/back_office/pages/pages/db/addUser_action2.php on line 40
+[28-Jan-2018 13:38:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tanahmzin/public_html/maxomus/back_office/pages/pages/db/addUser_action2.php on line 32
+[28-Jan-2018 13:38:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tanahmzin/public_html/maxomus/back_office/pages/pages/db/addUser_action2.php on line 40
